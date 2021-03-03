@@ -3,7 +3,7 @@ N-gram Extractor is a program that detects recurring words' frequency and prints
 
 ## How to use N-gram Extractor?
 Firstly, *n* letter refers to desired word frequency. 
-For instance, if you type 1 as n value, the words will be separated one by one. If you type 2 as n value, the words will be grouped from beginning to end with 2 words for each group. There is no limitation about n value. Then, you should have a text file which contains your input text. Optionally, instead of program you can also create your output file yourself. 
+For instance, if you type 1 as n value, the words will be separated one by one. If you type 2 as n value, the words will be grouped from beginning to end with 2 words for each group. There is no limitation about n value. Then, you should have a text file which contains your input text. 
 
 ### Example
 Suppose that our input.txt file contains a text below:
